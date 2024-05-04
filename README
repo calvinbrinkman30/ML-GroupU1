@@ -1,0 +1,11 @@
+This repository contains the code for Group U1 of our Machine Learning class.
+Contributors: Alexander Kellough, Javier Davis, Charles Saffold, Calvin Brinkman
+
+Requirements:
+- pygame
+- neat-python
+
+Contents:
+ - game_env.py -> Base Brick Breaker environment, can be played with the left/right arrow keys
+ - NEAT_config.txt -> Configuration file for the NEAT algorithm
+ - Train_Brick_Breaker_ML.py -> Code for training the Brick Breaker AI, includes the fitness function
