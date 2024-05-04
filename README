@@ -6,6 +6,6 @@ Requirements:
 - neat-python
 
 Contents:
- - game_env.py -> Base Brick Breaker environment, can be played with the left/right arrow keys
+ - game_env.py -> Base Brick Breaker environment, can be played with the left/right arrow keys or by dragging the paddle
  - NEAT_config.txt -> Configuration file for the NEAT algorithm
  - Train_Brick_Breaker_ML.py -> Code for training the Brick Breaker AI, includes the fitness function
